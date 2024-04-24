@@ -21,7 +21,7 @@
 ---
 
 ### :man_technologist: About Me :
-I have a bachelors degree in Computer Science - Information Technology. I started my career focusing primarily on Linux administration. After a while, I started shifting my focus to deploying IaC in cloud environments (primarily AWS). As a Cloud Engineer III, I spent the majority of my time being the go-to person in my team for anything related to Linux and AWS architecture. Most recently, I have slightly switched gears and am now working as a DevOps Engineer III (still specializing in AWS) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working from the Nashville area.
+I have a bachelors degree in Computer Science - Information Technology. I started my career focusing primarily on Linux administration. After a while, I started shifting my focus to deploying IaC in cloud environments (primarily AWS). As a Cloud Engineer III, I spent the majority of my time being the go-to person in my team for anything related to Linux and AWS architecture. Most recently, I have slightly switched gears and am now working as a Software Engineer IV (still specializing in AWS) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working from the Nashville area.
 
 ---
 
